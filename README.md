@@ -1,40 +1,54 @@
-# Hi there! 👋 I'm Ameer Hamza Khan
+# 👋 Hi, I'm Ameer Hamza Khan
 
-**Full Stack Software Engineer | MERN | React JS | Node JS | React Native | NestJS | Kubernetes | AWS | Docker**
+**Full Stack Software Engineer | MERN | Next.js | Node.js | React Native | NestJS | AWS | Docker | DevOps**
 
-I am a Full Stack Software Engineer at [Productbox](https://productbox.dev), with experience in **React JS, Node.js, MongoDB, PostgreSQL, NestJS, AWS (EC2, App Runner), Docker, Kubernetes, Firebase, TypeScript, Python, React Native, Redux, and Zustand.**  
+I’m a passionate **Full Stack Software Engineer** with 3+ years of hands-on experience building scalable web and mobile applications.  
+Currently working at [ProductBox](https://productbox.dev), where I craft high-performance solutions using modern JavaScript frameworks, cloud services, and DevOps best practices.
 
-I build scalable applications, work with cloud services, and love exploring new technologies to enhance performance and user experience.  
-
-- 🔭 **Current Role:** Full Stack Software Engineer at [Productbox](https://productbox.dev)  
-- 🌱 **Currently Learning:** .NET Core  
-- 💬 **Ask me about:** React, React Native, Node.js, NestJS, MongoDB, PostgreSQL, Firebase, AWS, Kubernetes, Docker  
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/its-ameerhamzakhan) | [Portfolio](https://portfolio-ameerhamza.web.app)  
+I’ve also collaborated with **startups and global teams** (including Badlo Technologies & Culyte) to design, develop, and deploy innovative digital products that deliver real-world impact.
 
 ---
 
-## 🧰 Tech Stack:
-![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-blue?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-purple?style=flat&logo=redux)
-![Zustand](https://img.shields.io/badge/-Zustand-blueviolet?style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-red?style=flat&logo=nestjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql)
-![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat&logo=firebase)
-![AWS](https://img.shields.io/badge/-AWS-orange?style=flat&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat&logo=kubernetes)
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+### 🔭 **Current Focus**
+- **Full Stack Development** at [ProductBox](https://productbox.dev)  
+- Freelance Projects with **Badlo Technologies** & **Culyte**  
+- Building scalable systems with **Next.js**, **Node.js**, and **AWS**
 
 ---
 
-## 📈 GitHub Stats:
+### 🧠 **Tech Stack**
+
+**Frontend:** React.js, Next.js, Redux, Zustand, Tailwind CSS, MUI  
+**Backend:** Node.js, Express.js, NestJS, MongoDB, PostgreSQL  
+**Mobile:** React Native, Expo  
+**DevOps / Cloud:** AWS, Microsoft Azure, GCP, Netlify, Docker, Kubernetes, Vercel, Firebase  
+**Other:** TypeScript, Python, REST APIs, CI/CD, Agile Development  
+
+---
+
+### 💬 **Ask Me About**
+React • React Native • Node.js • Next.js • NestJS • MongoDB • AWS • Microsoft Azure • GCP • Docker • DevOps • Performance Optimization
+
+---
+
+### 🌱 **Currently Exploring**
+- Cloud Architecture (AWS, GCP, Azure)
+- .NET Core for cross-platform backend development
+- Advanced CI/CD pipelines & Infrastructure as Code (IaC)
+
+---
+
+### 📫 **Let’s Connect**
+[💼 LinkedIn](https://www.linkedin.com/in/its-ameerhamzakhan)  
+[🌐 Portfolio](https://portfolio-ameerhamza.web.app)  
+[📧 Email](mailto:ameeerhamxakhan@gmail.com)
+
+---
+
+### 📈 **GitHub Stats**
 ![Ameer Hamza Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameerhamzakhan&show_icons=true&theme=radical)
 
 ---
 
-## 📊 Top Languages:
+### 📊 **Top Languages**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerhamzakhan&layout=compact&theme=radical)
