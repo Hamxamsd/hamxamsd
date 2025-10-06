@@ -46,9 +46,9 @@ React • React Native • Node.js • Next.js • NestJS • MongoDB • AWS �
 ---
 
 ### 📈 **GitHub Stats**
-![Ameer Hamza Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameerhamzakhan&show_icons=true&theme=radical)
+![Ameer Hamza Khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamxamsd&show_icons=true&theme=radical)
 
 ---
 
 ### 📊 **Top Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerhamzakhan&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamxamsd&layout=compact&theme=radical)
