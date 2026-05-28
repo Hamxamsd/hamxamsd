@@ -121,7 +121,7 @@ A TikTok-style e-commerce platform combining short-form video content with produ
 ## 📫 Connect With Me
 
 * **LinkedIn:** [linkedin.com/in/its-ameerhamzakhan](https://www.linkedin.com/in/its-ameerhamzakhan)
-* **Portfolio:** [portfolio-ameerhamza.web.app](https://portfolio-ameerhamza.web.app)
+* **Portfolio:** [ameerhamzamehsood.web.app/](https://ameerhamzamehsood.web.app)
 * **GitHub:** [github.com/hamxamsd](https://github.com/hamxamsd)
 * **Email:** [ameeerhamxakhan@gmail.com](mailto:ameeerhamxakhan@gmail.com)
 
